@@ -1,8 +1,7 @@
 # Qualys
 
 
-
-**1. Vulnerability Management - Foundation**
+[**1. Vulnerability Management - Foundation**](https://github.com/Redfooxx/Qualys/blob/main/1%20Vulnerability%20Management%20-%20Foundation.pdf)
 
 - Focuses on the Qualys Vulnerability Management (VM) tool.
 - Covers scanning, reporting, and remediation strategies.
