@@ -6,8 +6,7 @@
 - Focuses on the Qualys Vulnerability Management (VM) tool.
 - Covers scanning, reporting, and remediation strategies.
 
-**2. Vulnerability Management Detection and Response (VMDR)**
-
+[**2. Vulnerability Management Detection and Response (VMDR)**](https://github.com/Redfooxx/Qualys/blob/main/2%20Vulnerability%20Management%20Detection%20and%20Response%20(VMDR).pdf)
 - Focuses on web application security scanning.
 - Includes detection and mitigation of web-based vulnerabilities.
 
